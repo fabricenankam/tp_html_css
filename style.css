@@ -1,0 +1,57 @@
+table {
+    border-collapse: collapse;
+    width: 95%;
+
+
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+.green-color {
+    color: rgb(12, 197, 12);
+    height: 20px;
+    width: 50%;
+    text-align: center;
+}
+
+div {
+    width: 55%;
+
+}
+
+th,
+td {
+    padding: 10px;
+    font-size: 20px;
+}
+
+img {
+    float: left;
+}
+
+p {
+    margin-left: 330px;
+}
+
+body {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 400px;
+
+}
+
+li {
+    font-weight: bold;
+}
+
+.blu-1 {
+    color: rgb(57, 57, 247);
+}
+
+span {
+    color: red;
+}
