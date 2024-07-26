@@ -18,13 +18,13 @@ div {
 
 }
 
-img {
+.div-img img {
     float: left;
 }
 
 .style-div1{
     width: 75%;
-    margin-bottom: 50px;
+    margin-bottom: 90px;
 }
 
 
